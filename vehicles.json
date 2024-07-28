@@ -1,6 +1,7 @@
 [
     {
-        "display_name": "Select Vehicle"
+        "make": "Select",
+        "display_name": "Vehicle"
     },
     {
         "handle": "Audi_A7_55_TFSIe_PHEV_PHEV_2022_CA",
